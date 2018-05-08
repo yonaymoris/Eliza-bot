@@ -2,7 +2,7 @@
   "name": "eliza-bot",
   "version": "1.0.0",
   "description": "Your psychotherapist",
-  "main": "bot.js",
+  "main": "eliza.js",
   "author": "Yona",
   "dependencies": {
     "discord.io": "^2.5.3",
