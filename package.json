@@ -1,0 +1,14 @@
+{
+  "name": "eliza-bot",
+  "version": "1.0.0",
+  "description": "Your psychotherapist",
+  "main": "bot.js",
+  "author": "Yona",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.3.2",
+    "elizanode": "^0.1.0",
+    "npm": "^6.0.0",
+    "winston": "^2.4.2"
+  }
+}
